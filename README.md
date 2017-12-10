@@ -1,5 +1,5 @@
-# Exercicio 1 - AvaliaÁ„o TÈcnica .NET & Angular
+# Exerc√≠cio 1 - Avalia√ß√£o T√©cnica .NET & Angular
 # Candidato: Rodrigo Nabas Teruel
 
-Ent„o conforme foi solicitado, desenvolvi um projeto em Console que lista as opÁıes do exercÌcio,
-basta digitar o numero da opÁ„o que deseja para listar o resultado.
+Ent√£o conforme foi solicitado, desenvolvi um projeto em Console que lista as op√ß√µes do exerc√≠cio,
+basta digitar o numero da op√ß√£o que deseja para listar o resultado.
